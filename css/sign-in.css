@@ -1,0 +1,43 @@
+@media only screen and (max-width: 576px) {
+    .sign-in-form{
+        height: 100vh;
+        width: 100%;
+    }
+    body{
+        background-color: black;
+    }
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: url("../images/bg-sign-in.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.header{
+    font-family: 'Rajdhani';
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.sign-in-form{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    color: whitesmoke;
+    padding: 3rem;
+}
+
+.sign-in-form a:hover{
+    color: #607edb;
+    font-weight: 500;
+}

@@ -1,0 +1,139 @@
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: #11887B;
+    padding: 0.5rem;
+    height: 10vh;
+}
+
+.logo{
+    font-weight:bold;
+    font-size: 2rem;
+    color: white;
+    font-family: 'Montserrat';
+
+}
+
+.logout{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat';
+}
+
+.container-fluid{
+    background-color: #F7F7F7;
+}
+
+.header-2{
+    margin: 5px 0px;
+}
+
+.set-profile-pic{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat';
+    background-color: #11887B;
+    color: white;
+}
+
+.welcome-msg{
+    color: #085B53;
+    font-size: 1.5rem;
+    font-family: 'Open Sans';
+    text-align: center;
+    font-weight: 550;
+}
+
+.main-body{
+    height:  80.5vh;
+}
+
+.user-details { 
+    height: 70vh; 
+    overflow-x: hidden; 
+    overflow-y: scroll; 
+    text-align:justify;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    font-size: 18px;
+}
+
+
+.chat-box{
+    height: 80vh;
+    background-color: #F2F2F2;
+}
+
+.chat-title{
+    background-color: #11887B;
+    color: white;
+    height: 10vh;
+    padding: 10px 5px;
+    font-family: 'Open Sans';
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.check-friends{
+    background-color: #11887B;
+    color: white;
+    height: 10vh;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 25px;
+}
+
+.chat-body{
+    font-family: 'Open Sans';
+    height: 58vh;
+    overflow-y: scroll;
+    padding: 20px;
+    display: flex; 
+    flex-direction: column-reverse;
+    background-color: #E5DDD5;
+    background-image: url(../images/chat-bg.png);
+}
+
+.message-form{
+    padding: 10px;
+    height:  10vh;
+}
+
+.emojionearea > .emojionearea-editor
+{
+    min-height: 55px;
+    max-height: 55px;
+}
+
+.send-button{
+    margin-top: 5px;
+}
+
+.share-button{
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.main{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
