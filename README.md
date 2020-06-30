@@ -1,13 +1,13 @@
 # Chat-Application-using-Ajax-PHP-MySQL
 <br>
+<br>
+<h2>Introduction</h2>
+    <p>The project is a web based chat application that facilitates real time chatting with emojis, sharing images, music and video files etc. As the name suggests this project is made using ajax, PHP and MySQL.
+    
 <h2>Preview images</h2>
 <img src="https://github.com/hirohit2001/Chat-Application-using-Ajax-PHP-MySQL/blob/master/images/login.png">
 <img src="https://github.com/hirohit2001/Chat-Application-using-Ajax-PHP-MySQL/blob/master/images/chat.png">
 <img src="https://github.com/hirohit2001/Chat-Application-using-Ajax-PHP-MySQL/blob/master/images/chat2.png">
-
-<br>
-<h2>Introduction</h2>
-    <p>The project is a web based chat application that facilitates real time chatting with emojis, sharing images, music and video files etc. As the name suggests this project is made using ajax, PHP and MySQL.
 <br><br>
 <h2>Project Structure</h2>
 <p>It comprises of 5 different folders:-</p>
