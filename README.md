@@ -1,6 +1,8 @@
 # Chat-Application-using-Ajax-PHP-MySQL
 <br>
 <h2>Preview images</h2>
+<img src="https://github.com/hirohit2001/Chat-Application-using-Ajax-PHP-MySQL/blob/master/images/login.png">
+<img src="https://github.com/hirohit2001/Chat-Application-using-Ajax-PHP-MySQL/blob/master/images/chat.png">
 
 <br>
 <h2>Introduction</h2>
