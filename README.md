@@ -32,8 +32,8 @@ This Project is a web based real time chatting application that facilitates send
 
 <h4>How to run this project in localhost ?</h4>
 <div><b>Step 1 - </b> Download the entire project from the repository and extract the project folder.</div>
-<b>Step 2 - </b> Place the project folder inside the www folder of your wampserver.
-<b>Step 3 - </b> Now you need to set up the database. This project includes a sql file which you can import and create the database named mychat in the php myadmin of your wampserver.
+<div><b>Step 2 - </b> Place the project folder inside the www folder of your wampserver.</div>
+<div><b>Step 3 - </b> Now you need to set up the database. This project includes a sql file which you can import and create the database named mychat in the php myadmin of your wampserver.</div>
 
 Now the setup is completed ! You are ready to go :) 
 Open any browser and go to your project installed in your localhost. (<b>NOTE: Make sure that your wampserver is activated.</b>)
