@@ -1,4 +1,4 @@
-# Chat-Application
+## Chat-Application
 <h4>Introduction</h4>
     <p>This Project is a web based real time chatting application that facilitates sending instant messages, sharing emojis, multimedia files(eg. music files, video files) with other users of this application. Technologies used in this app includes PHP(which provides the backend support), ajax(for asynchronous data transfer) and SQL(used for programming the database).
     
