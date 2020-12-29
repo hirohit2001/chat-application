@@ -10,6 +10,7 @@ This Project is a web based real time chatting application that facilitates send
 <br><br>
 -->
 
+
 <h4>Project Structure</h4>
 <p>It comprises of 5 different folders:-</p>
 <ul>
@@ -29,6 +30,7 @@ This Project is a web based real time chatting application that facilitates send
     <b>media - </b> This folder contains all the media files shared between the users.
   </li>
 </ul>
+
 
 <h4>How to run this project in localhost ?</h4>
 <div><b>Step 1 - </b> Download the entire project from the repository and extract the project folder.</div>
