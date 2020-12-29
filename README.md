@@ -10,7 +10,7 @@ This Project is a web based real time chatting application that facilitates send
 <br><br>
 -->
 
-<br>
+<br><br>
 <h4>Project Structure</h4>
 <p>It comprises of 5 different folders:-</p>
 <ul>
@@ -31,7 +31,6 @@ This Project is a web based real time chatting application that facilitates send
   </li>
 </ul>
 
-<br>
 <h4>How to run this project in localhost ?</h4>
 <div><b>Step 1 - </b> Download the entire project from the repository and extract the project folder.</div>
 <div><b>Step 2 - </b> Place the project folder inside the www folder of your wampserver.</div>
