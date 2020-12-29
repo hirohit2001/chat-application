@@ -10,7 +10,7 @@ This Project is a web based real time chatting application that facilitates send
 <br><br>
 -->
 
-<br><br>
+<br>
 <h4>Project Structure</h4>
 <p>It comprises of 5 different folders:-</p>
 <ul>
