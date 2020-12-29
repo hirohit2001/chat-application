@@ -1,8 +1,7 @@
 # Chat-Application
 <br>
-<br>
 <h2>Introduction</h2>
-    <p>This Project is a web based real time chatting application that facilitates sharing emojis, multimedia files(eg. music files, video files) with other users of this application. Technolgies used in this app includes PHP(which provides the backend support), ajax(for asynchronous data transfer) and SQL(used for programming the database).
+    <p>This Project is a web based real time chatting application that facilitates sharing emojis, multimedia files(eg. music files, video files) with other users of this application. Technologies used in this app includes PHP(which provides the backend support), ajax(for asynchronous data transfer) and SQL(used for programming the database).
     
 <h2>Preview images</h2>
 <img src="https://github.com/hirohit2001/Chat-Application-using-Ajax-PHP-MySQL/blob/master/images/login.png">
