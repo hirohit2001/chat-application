@@ -2,11 +2,14 @@
 <h4>Introduction</h4>
 This Project is a web based real time chatting application that facilitates sending instant messages, sharing emojis, multimedia files(eg. music files, video files) with other users of this application. Technologies used in this app includes PHP(which provides the backend support), ajax(for asynchronous data transfer) and SQL(used for programming the database).
     
+/**
 <h2>Preview images</h2>
 <img src="https://github.com/hirohit2001/Chat-Application-using-Ajax-PHP-MySQL/blob/master/images/login.png">
 <img src="https://github.com/hirohit2001/Chat-Application-using-Ajax-PHP-MySQL/blob/master/images/chat.png">
 <img src="https://github.com/hirohit2001/Chat-Application-using-Ajax-PHP-MySQL/blob/master/images/chat2.png">
 <br><br>
+**/
+
 <h2>Project Structure</h2>
 <p>It comprises of 5 different folders:-</p>
 <ul>
